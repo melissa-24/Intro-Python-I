@@ -13,7 +13,7 @@ y = "7"
 
 # Write a print statement that combines x + y into the integer value 12
 
-y_int = int(y)
+y_int = int(y) # This converts the string to an integer
 print(y_int + x)
 
 
